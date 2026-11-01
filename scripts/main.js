@@ -8,14 +8,14 @@
 // =============================================================================
 const CONFIG = {
   // WhatsApp business number format: CountryCode + Number (no spaces or '+')
-  whatsappNumber: "5215512345678", 
+  whatsappNumber: "5215586400725", 
   brandName: "TAMARINDO",
   currency: "$",
   defaultOrderMsg: "¡Hola TAMARINDO! 🔥 Vi su página y quiero ordenar:",
   contactMsg: "¡Hola TAMARINDO! Quiero información sobre servicio a domicilio.",
   schedule: "Lunes a Domingo: 1:00 PM - 11:30 PM",
   address: "Av. Gastronómica 123, Zona Centro",
-  phoneDisplay: "+52 55 1234 5678"
+  phoneDisplay: "+52 1 55 8640 0725"
 };
 
 // =============================================================================
